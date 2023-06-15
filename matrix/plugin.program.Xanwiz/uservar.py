@@ -17,7 +17,7 @@ ADDONTITLE = 'Xanax Wizard'
 BUILDERNAME = 'Xanax'
 EXCLUDES = [ADDON_ID, 'repository.Xanax']
 # Text File with build info in it. Please read https://github.com/a4k-Xanaxproject/plugin.program.Xanax/wiki/Installing-Builds
-BUILDFILE = 'http://'
+BUILDFILE = 'https://www.dropbox.com/s/qu4uwfkytqurq91/Kodi%20-%20Copy.zip?dl=1'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
